@@ -16,6 +16,7 @@ public class ClockDisplay
         // αυτή η γραμμή πρέπει να είναι η πρώτη γραμμή στον κατασκευαστή
         this();
         setTime(hour, minute);
+        //περιττο σχολιο για git
 
     }
 
